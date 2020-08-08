@@ -10,4 +10,6 @@
 
 ### Лабораторные работы времен универа
 - ООП C# EntityFramework Winforms. 1 курс 2 семестр, первый большой проект https://github.com/disant9807/Remonto
+- Бэкен Django питон. 3 курс https://github.com/disant9807/Rent-clothes-working-site
+- Фронтенд для верхней работы 3 курс https://github.com/disant9807/Clothing-rental-frontend
 
