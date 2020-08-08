@@ -6,5 +6,5 @@
 - Проект задания https://github.com/disant9807/emojiManager
 
 ### Тестовое задание в Новые Дороги
-- Продакшен https://disant9807.github.io/irklife/
+- Продакшен http://irk.life/
 
