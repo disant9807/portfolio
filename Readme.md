@@ -1,4 +1,4 @@
-### Наработки игры с хакатона
+### Наработки игры с хакатона (Unity)
 - Проект наработок https://github.com/disant9807/shooterGame
 - Билд наработок https://github.com/disant9807/shooterGameBuild
 
@@ -9,5 +9,5 @@
 - Продакшен http://irk.life/
 
 ### Лабораторные работы времен универа
-- ООП C# EntityFramework Winforms. 1 курс 2 семестр, первый большой проект - https://github.com/disant9807/Remonto
+- ООП C# EntityFramework Winforms. 1 курс 2 семестр, первый большой проект https://github.com/disant9807/Remonto
 
