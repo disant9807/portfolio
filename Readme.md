@@ -4,6 +4,7 @@
 
 ### Тестовое задание на angular 7+
 - Проект задания https://github.com/disant9807/emojiManager
+- Продакшен (Билд) задания https://disant9807.github.io/emojiManagerBuild/
 
 ### Тестовое задание в Новые Дороги
 - Продакшен http://irk.life/
